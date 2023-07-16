@@ -1,4 +1,4 @@
-# Newman Reporter Allure Using Jsonserver And Postman For macOS
+# Newman Reporter Allure Using Json-Server And Postman For macOS
 
 
 ## Technology and Tool Used
