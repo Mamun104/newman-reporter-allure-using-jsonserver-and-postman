@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "”Mamun”",
+      "lastName": "”Zaman”",
+      "age": 26
+    },
+    {
+      "id": 2,
+      "firstName": "Alastair",
+      "lastName": "Cook",
+      "age": 37
+    },
+    {
+      "id": 3,
+      "firstName": "Steve",
+      "lastName": "Smith",
+      "age": 32
+    },
+    {
+      "id": 5,
+      "firstName": "”Mamun-1”",
+      "lastName": "”Zaman-1”",
+      "age": 25
+    },
+    {
+      "firstName": "”Mamun”",
+      "lastName": "”Zaman”",
+      "id": 6
+    }
+  ]
+}
